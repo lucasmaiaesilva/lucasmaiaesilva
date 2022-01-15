@@ -2,12 +2,12 @@
 
 
 <!-- this model doesn't accept other css techniques to align things besides table -->
-<table style="border: none; outline: none;">
-   <tr style="border: none; outline: none;">
-     <td style="border: none; outline: none;">
+<table cellspacing="0" cellpadding="0">
+   <tr>
+     <td>
        <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="100%" />
      </td>
-     <td style="border: none; outline: none;">
+     <td>
        teste
      </td>
    </tr>
