@@ -1,11 +1,5 @@
-
-<div style="display: inline-block">
-  <div>
-    <h1 style="display: inline">Olá pessoal / Hello folks</h1>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  </div>
-  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="140em" />
-</div>  
+## Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="140em" align="center" />
 
 <div align="center">
   <a href="https://github.com/lucasmaiaesilva">
