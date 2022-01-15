@@ -1,9 +1,7 @@
 ## Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div style="display: inline_block"><br>
-  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="280em" />
-  <span>testando 1 2 3</span>
-  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="280em" />
+<div align="center" style="display: inline_block"><br>
+  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="180em" />
 </div>
 
 <div align="center">
