@@ -1,12 +1,8 @@
 ## Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div style="display: grid; grid-template-columns: 1fr 1fr;">
-   <span>test</span>
-   <div>test2</div>
-</div>
 
-<!-- this model doesn't accept other css techniques to align things besides table 
-<table border="1">
+<!-- this model doesn't accept other css techniques to align things besides table -->
+<table border="none" outline="none">
    <tr>
      <td>
        <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="100%" />
@@ -16,7 +12,6 @@
      </td>
    </tr>
 </table>
--->
 
 <div align="center">
   <a href="https://github.com/lucasmaiaesilva">
