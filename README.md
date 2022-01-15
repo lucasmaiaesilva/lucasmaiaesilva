@@ -1,7 +1,7 @@
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <div>
-    <h1 style="display: inline_block">Olá pessoal / Hello folks</h1>
+    <h1 style="display: inline">Olá pessoal / Hello folks</h1>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   </div>
   <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="140em" />
