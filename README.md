@@ -1,5 +1,18 @@
 ## Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="240em" style="margin: 0 auto;" />
+
+<table border="1">
+   <tr>
+     <td>
+       <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="100%" />
+     </td>
+   </tr>
+
+   <tr>
+     <td>
+       teste
+     </td>
+   </tr>
+</table>
 
 <div align="center">
   <a href="https://github.com/lucasmaiaesilva">
