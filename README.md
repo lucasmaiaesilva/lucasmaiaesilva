@@ -5,9 +5,6 @@
      <td>
        <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="100%" />
      </td>
-   </tr>
-
-   <tr>
      <td>
        teste
      </td>
