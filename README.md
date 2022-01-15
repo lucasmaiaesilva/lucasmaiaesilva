@@ -2,10 +2,10 @@
 
 
 <!-- this model doesn't accept other css techniques to align things besides table -->
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none">
    <tr>
      <td>
-       <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="100%" />
+       <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="280em" />
      </td>
      <td>
        teste
