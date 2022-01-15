@@ -1,9 +1,9 @@
-<div style="position: relative">
-  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/my-profile-bg.jpg" alt="banner" />
-  <div style="position: absolute; top: 1em; left: 1em">
-    Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <div>
-<div>
+
+  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" />
+  
+  # Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  
+
 
 <div align="center">
   <a href="https://github.com/lucasmaiaesilva">
