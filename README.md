@@ -1,9 +1,8 @@
 
-  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" />
-  
+<div style="display: flex; justify-content: space-between; align-items: center">
+  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="140em" />
   # Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  
-
+</div>  
 
 <div align="center">
   <a href="https://github.com/lucasmaiaesilva">
