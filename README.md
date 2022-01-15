@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="180em" style="margin-bottom: 10em" />
+  <br />
+  <br />
 </div>
 
 <div align="center">
