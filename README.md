@@ -1,17 +1,10 @@
 ## Olá pessoal / Hello folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-
-<!-- this model doesn't accept other css techniques to align things besides table -->
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none">
-   <tr>
-     <td>
-       <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="280em" />
-     </td>
-     <td>
-       teste
-     </td>
-   </tr>
-</table>
+<div style="display: inline_block"><br>
+  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="280em" />
+  <span>testando 1 2 3</span>
+  <img src="https://github.com/lucasmaiaesilva/lucasmaiaesilva/blob/main/space-bg.png" alt="banner" width="280em" />
+</div>
 
 <div align="center">
   <a href="https://github.com/lucasmaiaesilva">
